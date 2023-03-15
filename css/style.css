@@ -27,8 +27,36 @@
   background-color:#165bba;
 }
 
+.bordo-arrotondato{
+  border: 1px solid rgb(214, 211, 211);
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.bm-show{
+  border-bottom: 1px solid rgb(214, 211, 211) ;
+}
+
 th img {
   width: 5%;
   height: 5%;
 }
 
+.intestazione-tabella{
+  color: black;
+  border: 1px solid rgb(214, 211, 211);
+  border-radius: 5px;
+}
+.intestazione{
+  color: black;
+  border: 1px solid rgb(214, 211, 211);
+  border-radius: 5px;
+}
+
+.intestazione h3{
+  border-bottom: 1px solid rgb(214, 211, 211);
+  border-bottom-width: 100%;
+  background-color: #f8f9fa;
+  padding: 3px;
+
+}

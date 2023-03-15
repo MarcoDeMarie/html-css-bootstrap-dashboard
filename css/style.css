@@ -16,6 +16,7 @@
   background-image: url(../img/sidebar-bg.png);
   background-repeat: no-repeat;
   object-fit: cover;
+  background-size: 100vh;
 
 }
 
@@ -60,3 +61,4 @@ th img {
   padding: 3px;
 
 }
+
